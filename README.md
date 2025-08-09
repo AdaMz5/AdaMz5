@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Adam</h1>
 <h3 align="center">16-year-old student who loves programming and learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adamz5&label=Profile%20views&color=0e75b6&style=flat" alt="adamz5" /> </p>
+
 
 - 🌱 I’m currently learning: **JavaScript, Web development, basics of AI/ML, basics of cybersecurity**
 
